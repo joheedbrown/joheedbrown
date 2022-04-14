@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joheedbrown
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning how to code and cybersecurity
+- 🌱 I’m currently learning python 3 on codeacademy.com
 - 📫 How to reach me joheedmb10@gmail.com
 
 <!---
